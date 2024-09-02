@@ -3,6 +3,7 @@
 Meu nome é Lucas Lombardi
 
  -Estou estudando Alura;
+ br
  -Estou me desenvolvendo em inglês;
  -Estou utilizando espaço para organização de projetos.
 
