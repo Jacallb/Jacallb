@@ -9,3 +9,7 @@ Meu nome é Lucas Lombardi
 ## Você entrar em contato comigo 💙
 
 lucaslombardiborges@gmail.com
+
+
+
+![](https://media.tenor.com/w_swRDs3PP4AAAAi/dancing-groovy.gif)
